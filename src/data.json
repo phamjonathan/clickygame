@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/yellow.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/birthday.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/beach.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/chilling.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/bread.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/shower.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/panda.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/log.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/gazing.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/grass.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/dj.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/pillow.png",
+      "clicked": false
+    }
+  ]
+  

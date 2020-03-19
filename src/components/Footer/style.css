@@ -1,0 +1,25 @@
+.footer {
+    background-image: url("/assets/images/sky.png");
+    height: 50px;
+    position: center;
+    color: rgb(1, 127, 158);
+    overflow: auto;
+  }
+  
+  .footer > .bottom {
+    position: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 8px;
+    font-weight: 600;
+  }
+  
+  .footer > .bottom > img {
+    width: 20px;
+    position: relative;
+    top: 3px;
+    left: 2px;
+    background: rgb(255, 255, 255);
+  }
+  
